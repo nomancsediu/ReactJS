@@ -1,0 +1,17 @@
+[book]
+title = "ReactJS Mastery"
+description = "My personal learning notes on ReactJS and modern frontend development"
+authors = ["Noman"]
+language = "en"
+
+[build]
+build-dir = "book"
+
+[output.html]
+default-theme = "navy"
+git-repository-url = "https://github.com/nomancsediu/ReactJS_Mastery"
+edit-url-template = "https://github.com/nomancsediu/ReactJS_Mastery/edit/main/{path}"
+
+[output.html.search]
+enable = true
+limit-results = 30

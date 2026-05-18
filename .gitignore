@@ -1,0 +1,5 @@
+node_modules/
+book/
+.DS_Store
+*.log
+.env
